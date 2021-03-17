@@ -150,5 +150,14 @@ collections:
                 label: url
                 required: true
                 hint: "Paste the 'URL' of your Social media" 
-            
+  - name: files
+    label: "Files"
+    files:
+    - name: "resume_pdf"
+    - label: "Resume PDF"
+      widget: "file"
+      default: "/files/ShengruiCen_Resume.pdf"
+      media_library:
+        config:
+          multiple: true            
       
