@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Shengrui Cen - Arthur
+tagline: Product Manager
+featuredImage: /assets/2e4ca598-f811-41c3-889c-a5b07f53b197.jpeg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+He is a lifelong learner, has a great passion in entrepreneurship, sustainability and technology. He loves cooking and reading books.
