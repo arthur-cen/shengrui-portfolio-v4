@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Shengrui Cen | Arthur",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "Arthur's personal website and blog. Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "siteUrl": "https://www.shengruicen.com",
+    "image": "/assets/android-chrome-512x512.png",
+    "iconimage": "/assets/favicon-32x32.png",
+    "twitterUsername": "@ac_dragonfly"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
