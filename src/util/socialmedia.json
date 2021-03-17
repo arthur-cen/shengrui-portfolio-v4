@@ -1,6 +1,10 @@
 {
   "socialIcons": [
     {
+      "icon": "github",
+      "url": "https://github.com/arthur-cen"
+    },
+    {
       "icon": "linkedin",
       "url": "https://in.linkedin.com/company/stackrole"
     }
