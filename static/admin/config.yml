@@ -77,7 +77,6 @@ collections:
         - {label: "Slug", name: "slug", widget: "hidden", default: "/about" }
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Body", name: "body", widget: "markdown"}
-        - {label: "Resume", name: "resume", widget: "file", default: "/static/Cen_Resume.pdf"}
       - label: "Contact"
         name: "contact"
         file: "src/content/pages/contact.md"
@@ -126,7 +125,9 @@ collections:
                 name: twitterUsername
                 label: Twitter
                 required: false
-                
+              - widget: file
+                name: resume
+                label: Resume
           - label: "Google Analytics"
             name: ga
             widget: string
